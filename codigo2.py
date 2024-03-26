@@ -1,2 +1,3 @@
-nombre= "Lucia"
-print ("hola" + nombre)
+nombre= "Roberto"
+apellido= "Amaranto"
+print ("hola" + nombre+ apellido)
